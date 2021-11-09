@@ -7,5 +7,11 @@
 
 import Foundation
 
-print("Hello, World!")
+struct SportCar {
+    
+}
+
+struct TrunkCar {
+    
+}
 
